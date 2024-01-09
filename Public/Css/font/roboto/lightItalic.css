@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "roboto-light-italic";
+    src:
+        url("../../../font/roboto/Roboto-LightItalic.eot?#iefix") format("eot"),
+        url("../../../font/roboto/Roboto-LightItalic.eot") format("eot"),
+        url("../../../font/roboto/Roboto-LightItalic.svg") format("svg"),
+        url("../../../font/roboto/Roboto-LightItalic.ttf") format("ttf"),
+        url("../../../font/roboto/Roboto-LightItalic.woff") format("woff"),
+        url("../../../font/roboto/Roboto-LightItalic.woff2") format("woff2")
+    ;
+}

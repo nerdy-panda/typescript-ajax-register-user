@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "roboto-thin-italic";
+    src:
+        url("../../../font/roboto/Roboto-ThinItalic.eot?#iefix") format("eot") ,
+        url("../../../font/roboto/Roboto-ThinItalic.eot") format("eot") ,
+        url("../../../font/roboto/Roboto-ThinItalic.svg") format("svg") ,
+        url("../../../font/roboto/Roboto-ThinItalic.ttf") format("ttf") ,
+        url("../../../font/roboto/Roboto-ThinItalic.woff") format("woff") ,
+        url("../../../font/roboto/Roboto-ThinItalic.woff2") format("woff2")
+    ;
+}

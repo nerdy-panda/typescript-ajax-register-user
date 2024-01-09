@@ -1,0 +1,27 @@
+@import url("../Libs/Bootstrap.css");
+body {
+    font-family: "roboto-regular";
+    background-color: #f2f0f0 ;
+}
+#loading {
+    text-align: center ;
+    display: none;
+}
+#loading img {
+    width: 60px ;
+    height: 60px ;
+}
+.dis-block {
+    display: block !important;
+}
+.notification {
+    margin-bottom : 25px ;
+}
+.notification.error {
+    background: #ffd7df;
+    color: #d01b1b;
+}
+.notification.ok {
+    background: #94fad066;
+    color: #1fb38b;
+}

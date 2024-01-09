@@ -1,0 +1,20 @@
+{
+    "name": "nerdpanda/01-practice-01",
+    "description": "the practice package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nerd Panda",
+            "email": "nerdpandabusiness@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.4"
+    } ,
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+
+}

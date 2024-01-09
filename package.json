@@ -1,0 +1,15 @@
+{
+  "name": "01-practice-01",
+  "version": "1.0.0",
+  "description": "the first practice for session 24 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "typescript" : "./node_modules/.bin/tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
